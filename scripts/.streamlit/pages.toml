@@ -1,0 +1,9 @@
+[[pages]]
+path = "scrape_parts_app.py"
+name = "Search"
+icon = "🔍"
+
+[[pages]]
+path = "inventory_page.py"
+name = "Inventory"
+icon = "📦" 
