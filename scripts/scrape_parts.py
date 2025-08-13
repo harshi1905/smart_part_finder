@@ -600,8 +600,8 @@ def display_results(results: Dict):
 def main():
     """Main function with enhanced error handling and user experience."""
     # eBay credentials - replace with your own
-    EBAY_CLIENT_ID = "Harshita-Smartpar-PRD-78e70e47c-1f7d880e"
-    EBAY_CLIENT_SECRET = "PRD-8e70e47c7937-ce06-406b-9545-c147"
+    EBAY_CLIENT_ID = your client id
+    EBAY_CLIENT_SECRET = your client secret key
 
     print("🚛 Trailer Parts Scraper v2.0")
     print("=" * 40)
