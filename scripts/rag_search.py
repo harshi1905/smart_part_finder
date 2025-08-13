@@ -8,7 +8,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # Set your Gemini API key directly in code (for local testing only)
-genai.configure(api_key="AIzaSyDKgBqOseGT4TpVzznkVQSGR7zeZpwDdqI")
+genai.configure(api_key="your key")
 
 class RAGSearch:
     def __init__(self, db_path="parts_db", collection_name="trailer_parts", top_k=20):
